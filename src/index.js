@@ -1,6 +1,7 @@
 import add from "./modules/add";
 import subtract from "./modules/subtract";
 import multiply from "./modules/multiply";
+import divide from "./modules/divide";
 import {addTen, addFive} from "./modules/addNumbers";
 import {subtractOne} from "./modules/subtractNumbers";
 
